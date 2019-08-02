@@ -9,4 +9,4 @@ This is a visualization of the process of guessing PI value using the Monte Carl
 - matplotlib
 
 ### Reference
-- ![Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method)
+- [Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method)
