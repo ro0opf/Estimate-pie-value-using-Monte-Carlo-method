@@ -8,5 +8,5 @@ This is a visualization of the process of guessing PI value using the Monte Carl
 - numpy
 - matplotlib
 
-### Reference
+### References
 - [Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method)
