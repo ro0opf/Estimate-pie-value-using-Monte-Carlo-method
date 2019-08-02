@@ -44,7 +44,7 @@ if __name__ == "__main__":
     plt.subplots_adjust(left=0.2, bottom=0.2)
     plt.xlim(0, 1)
     plt.ylim(0, 1)
-    axs.set_title(f'N = {TOTAL_DOTS}, PI = {EST_PI}')
+    axs.set_title(f'N = {TOTAL_DOTS}, PI ≈ {EST_PI}')
 
     # Button init
     btn_next = create_button('Next', [0.8, 0.065, 0.1, 0.04], AXES_COLOR)
