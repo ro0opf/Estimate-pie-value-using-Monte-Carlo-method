@@ -39,6 +39,7 @@ def update_next(val, axs):
 
 
 if __name__ == "__main__":
+    # Plots init
     fig, axs = plt.subplots()
     plt.subplots_adjust(left=0.2, bottom=0.2)
     plt.xlim(0, 1)
@@ -47,7 +48,6 @@ if __name__ == "__main__":
 
     # Button init
     btn_next = create_button('Next', [0.8, 0.065, 0.1, 0.04], AXES_COLOR)
-
     btn_next.on_clicked(lambda x: update_next(x, axs))
 
     plt.show()
