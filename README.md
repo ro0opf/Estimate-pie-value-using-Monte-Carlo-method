@@ -4,7 +4,7 @@ This is a visualization of the process of guessing PI value using the Monte Carl
 
 ![Figure_1](https://raw.githubusercontent.com/ro0opf/Estimate-pie-value-using-Monte-Carlo-method/dev/res/Figure_1.png)
 
-### Used Library
+### Used Libraries
 - numpy
 - matplotlib
 
